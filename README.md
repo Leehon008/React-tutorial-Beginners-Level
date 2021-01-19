@@ -1,5 +1,6 @@
 # React-tutorial-Beginners-Level
 Created with CodeSandbox from a tutorial by Ryan Johnson, Full-Stack Developer, React, Node.js 
+https://www.skillshare.com/classes/React-for-Beginners-Build-an-App-and-Learn-the-Fundamentals/365381517
 
 ### Learn React without all the distractions. This course will stick to the fundamentals, and guide you through the creation of your first app.
 
